@@ -17,3 +17,6 @@ Then click on Load unpacked, and select the folder.
 Click the Chrome Extensions button and "pin" the new extension, so that it shows up in your extensions bar.
 
 Enter the group ID.
+
+
+Now when you go to the My Flight page, with assignments loaded, it will automatically click the "Fly for X group" link.
