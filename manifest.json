@@ -2,6 +2,11 @@
   "name": "FlyForYourGroup",
   "version": "1.0",
   "description": "Fly for your FSE Group",
+  "icons": {
+    "128": "icon128.png",
+    "64": "icon64.png",
+    "32": "icon32.png"
+  },
   "content_scripts": [
   {
     "matches": [
