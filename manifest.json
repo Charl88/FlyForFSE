@@ -12,7 +12,7 @@
     "matches": [
       "https://server.fseconomy.net/myflight.jsp"
     ],
-    "js": ["jquery-2.2.4.min.js","content.js"]
+    "js": ["jquery-3.5.1.min.js","content.js"]
   }],
   "browser_action": {
     "default_popup": "popup.html"
@@ -20,5 +20,11 @@
   "permissions": [
     "storage"
   ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "flyforfse@github",
+      "strict_min_version": "42.0"
+    }
+  },
   "manifest_version": 2
 }
